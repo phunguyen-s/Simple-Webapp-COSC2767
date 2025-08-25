@@ -41,6 +41,7 @@
             e.printStackTrace();
         }
     %>
+    <p style="color: green;"><b>A new log entry was just added to /usr/local/tomcat/logs/app.log!</b></p>
     <!-- The content of the website starts here now! -->
     <div class="jumbotron">
       <h1 class="display-4">[Live Coding in Lecture, Hi Class] Hello DevOps Students of RMIT Vietnam!</h1>
